@@ -3,7 +3,7 @@ import axiosUrl from '../helps/axiosBase'
 import NavbarC from '../Componentes/NavbarC'
 import { Col, Container, Row } from 'react-bootstrap';
 import FooterC from '../Componentes/FooterC';
-import "../css/Fav.css"
+import '../css/Fav.css'
 import CardC from '../Componentes/CardC';
 
 const FavPage = () => {

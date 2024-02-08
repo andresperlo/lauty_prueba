@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import NavbarC from '../Componentes/NavbarC';
-import "../css/LoginPage.css"
+import '../css/LoginPage.css'
 import Swal from 'sweetalert2'
 import Redondos from "../Images/REDONDOS.jpg"
 import FooterC from '../Componentes/FooterC';
