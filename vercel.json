@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "path/to/source",
+      "use": "@vercel/static-build"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/css/(.*)",
+      "dest": "/css/$1"
+    }
+  ]
+}
