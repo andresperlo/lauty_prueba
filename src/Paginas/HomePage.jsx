@@ -5,7 +5,7 @@ import SliderC from '../Componentes/SliderC'
 import "../Css/NavbarC.css"
 import NavbarC from '../Componentes/NavbarC'
 import Accordion from 'react-bootstrap/Accordion';
-import "../Css/HomePage.css"
+import "../Css/HomePage.css";
 import FooterC from '../Componentes/FooterC'
 import Publicity from '../Componentes/Publicity'
 
