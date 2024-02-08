@@ -1,0 +1,70 @@
+.login-fondo {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    background-size: cover;
+    margin: 0; 
+    padding: 0; 
+    height: 100vh;
+    background-image: url(../Images//fondo1.jpg);
+    display: flex;
+    flex-direction: column; 
+}
+
+.pass-rock{
+    background-color: transparent;
+    border: transparent;
+    font-size: 20px;
+}
+
+.pass-rock:hover{
+    color: red;
+    background-color: transparent;
+}
+
+
+html, body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+.text-style-login{
+    font-family: 'Rock Salt', cursive;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 2rem;
+}
+
+.text-style-login:hover{
+  color: rgb(255, 0, 0);
+}
+
+.style-form{
+    background-color: rgba(133, 127, 127, 0.432);
+    padding: 15px 5rem;
+}
+
+.button-style{
+    display: flex;
+    justify-content: center;
+}
+
+.h2-rock-login{
+    font-family: 'Rock Salt', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+    color: red;
+}
+
+@media(max-width:688px){
+    .h2-rock-login{
+        font-family: 'Rock Salt', cursive;
+        display: flex;
+        justify-content: center;
+        font-size: 2rem;
+        color: red;
+    }
+}

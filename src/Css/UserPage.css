@@ -1,0 +1,103 @@
+.title-font{
+    font-family: 'Nabla', system-ui;
+    font-size: 6em;
+    padding: 3rem;
+}
+
+.body-one {
+    padding: 4rem;
+    background-image: url(../Images/RockFondo.webp);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    min-height: 50vh; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+
+
+
+.body-two{
+    padding: 4rem;
+    font-size: 2.5rem;
+    font-family: 'Rubik Glitch', system-ui;
+    color: yellow;
+    background-color: black;
+}
+
+
+.body-three{
+    padding: 4rem;
+    font-size: 2.5rem;
+    font-family: 'Rubik Glitch', system-ui;
+    color: black;
+    background-color: yellow;
+}
+
+.body-for{
+    padding: 4rem;
+    font-size: 2.5rem;
+    font-family: 'Rubik Glitch', system-ui;
+    color: yellow;
+    background-color: black;
+}
+
+.body-five{
+    padding: 4rem;
+    font-size: 2.5rem;
+    font-family: 'Rubik Glitch', system-ui;
+    color: black;
+    background-color: yellow;
+}
+
+.h2-rock{
+font-family: 'Rubik Glitch', system-ui;
+text-align: center;
+font-size: 3rem;
+}
+
+.h2-rock:hover{
+    transform: scale(1.2);
+}
+
+.h-rock{
+    font-family: 'Rubik Glitch', system-ui;
+    text-align: center;
+    margin: 1rem;
+    }
+    
+ .custom-button {
+ background: transparent;
+ color: black;
+ font-family: 'Rubik Glitch', system-ui;
+ border: none;
+ font-size: 3rem;
+  }
+
+  .custom-button:hover{
+   background-color: transparent;
+   color: rgb(255, 0, 0);
+     }
+  
+    .info-container {
+      width: 100%; 
+      text-align: center; 
+      margin-top: 10px;
+      font-family: 'Rock Salt', cursive;
+      font-size: 30px;
+      color: black;
+      }
+
+      .style-info{
+        background-color: black;
+        padding: 1rem;
+      }
+
+      .border-style{
+        border-bottom: solid 1px yellow;
+      }
+
+      .style-container{
+        background-image: url(../Images/rock.gif);
+      }

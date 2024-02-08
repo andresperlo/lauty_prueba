@@ -1,0 +1,71 @@
+.style-table{
+background-image: url(../Images/FondoAdmin.webp);
+}
+
+.body-table {
+    min-height: 60vh; 
+}
+
+.table tbody tr {
+    min-height: 30px; 
+  }
+  
+
+.style-font{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.font-style{
+  font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.buttonD{
+    margin: 5px;
+}
+
+@media(max-width:950px){
+    
+    .buttonD{
+        display: flex;
+        flex-direction: column;
+    }
+   
+    .style-font{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+    
+    .font-style{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+    }
+
+    
+}
+
+@media(max-width:670px){
+    .buttonD {
+        font-size: 10px;
+        margin-bottom: 5px;
+      }
+  
+    .style-font{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        overflow-wrap: break-word;
+    }
+    
+    .font-style{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 13px;
+        overflow-wrap: break-word;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+}
+
+

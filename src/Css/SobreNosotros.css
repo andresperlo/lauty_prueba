@@ -1,0 +1,46 @@
+.img-yo{
+    height: 25rem;
+}
+
+.img-yo:hover{
+    transform: scale(1.2);
+}
+
+.style-name{
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(10, 124, 255);
+    padding: 5px 5px;
+}
+
+.text-infoo{
+text-align: center;
+font-family: 'Anton', sans-serif;
+font-size: 40px;
+padding: 5px 5px;
+}
+
+.text-container {
+    max-width: 1000px; 
+    max-height: 700px;
+    overflow-y: auto; 
+    margin: 0 auto; 
+  }
+  
+  .img-tec{
+    height: 22rem;
+    width: 18rem;
+    object-fit: cover;
+  }
+
+  .img-tec {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .img-tec:hover {
+    transform: scale(1.2);
+  }
+  
+
+ 

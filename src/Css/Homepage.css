@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h2-homepage{
+    text-align: center;
+    font-size: 25px ;
+    padding: 3px;
+    background-color: rgb(255, 0, 0);
+    font-family: 'Rubik Glitch', system-ui;
+    margin: 0; 
+}
+
+.h2-homepage:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+
+.contenedor-carrosuel img {
+    max-height: 800px; 
+    object-fit: cover;
+  }
+
+  .h2-rock{
+    font-family: 'Rock Salt', cursive;
+  }
+
+  .p-rock{
+    font-size: 25px;
+    font-family: 'Rock Salt', cursive;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  
+ 
+  }
+
+
+.header-acordion {
+  border-top: solid 1px black;
+  }
+  

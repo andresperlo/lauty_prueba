@@ -1,0 +1,27 @@
+.style-acorddion{
+border-top: solid 1px black;
+font-size: 30px;
+font-family: 'Rock Salt', cursive;
+}
+
+.style-acorddion-two{
+font-size: 30px;
+font-family: 'Rock Salt', cursive;
+}
+
+.style-leyend{
+    font-family: 'Rock Salt', cursive;
+    color: red;
+}
+
+.rock-info{
+   font-family: cursive;
+    font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+    .style-acd {
+      margin-top: 8rem;
+    }
+  }
+  

@@ -1,0 +1,70 @@
+
+.register-page-container {
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-image: url(../Images/fondo2.jpg);
+  background-position: center; 
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; 
+}
+  
+  .form-style {
+    background-color: rgba(97, 94, 94, 0.432);
+    padding: 20px;
+  }
+  
+  .h2-rock-register {
+    font-family: 'Rock Salt', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+    color: red;
+  }
+  
+  
+  .register-style {
+    font-family: 'Rock Salt', cursive;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+  }
+  
+  .register-style:hover {
+    color: rgb(255, 4, 4);
+  }
+  
+  .register-buttom {
+    display: flex;
+    justify-content: center;
+    font-family: 'Rock Salt', cursive;
+    margin-top: 20px; 
+  }
+
+
+
+.form-style {
+  background-color: rgba(97, 94, 94, 0.432);
+  padding: 30px;
+}
+
+
+@media (max-width: 590px) {
+
+  .h2-rock-register {
+    font-family: 'Rock Salt', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: red;
+  }
+}
+
+
+
+  

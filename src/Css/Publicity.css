@@ -1,0 +1,22 @@
+.gif-style{
+    width: 15rem;
+    height: 15em;
+    object-fit: cover;
+}
+
+.publicity-column{
+    background-color: rgb(255, 0, 0);
+}
+
+@media(max-width:991px){
+    .gif-style{
+       display: none;
+    }
+    
+    .publicity-column{
+       display: none;
+    }
+}
+
+  
+  
