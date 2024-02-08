@@ -3,7 +3,7 @@ import NavbarC from '../Componentes/NavbarC'
 import axiosUrl from '../helps/axiosBase'
 import { Col, Container, Row } from 'react-bootstrap'
 import TableD from '../Componentes/TableD'
-import "../css/TableD.css"
+import '../css/TableD.css'
 import FooterC from '../Componentes/FooterC'
 
 const AdminPageUser = () => {
