@@ -14,7 +14,7 @@ import REACT from "../Images/REACT.jpg"
 import TRELLO from "../Images/TRELLO.png"
 import GITHUB from "../Images/github.jpg"
 import GIT from "../Images/GIT.png"
-import '../css/SobreNosotros.css';
+import 'css/SobreNosotros.css';
 import FooterC from '../Componentes/FooterC';
 
 const SobreNosotros = () => {

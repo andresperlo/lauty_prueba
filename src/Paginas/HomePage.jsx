@@ -2,10 +2,10 @@ import React, { useEffect, useState } from 'react'
 import CarruselC from '../Componentes/CarruselC'
 import axiosUrl from '../helps/axiosBase'
 import SliderC from '../Componentes/SliderC'
-import '../css/NavbarC.css'
+import 'css/NavbarC.css'
 import NavbarC from '../Componentes/NavbarC'
 import Accordion from 'react-bootstrap/Accordion';
-import '../css/HomePage.css';
+import 'css/HomePage.css';
 import FooterC from '../Componentes/FooterC'
 import Publicity from '../Componentes/Publicity'
 

@@ -1,6 +1,6 @@
 
 import Card from 'react-bootstrap/Card';
-import '../css/CardC.css'
+import 'css/CardC.css'
 import { Link } from 'react-router-dom';
 import axiosUrl from '../helps/axiosBase';
 

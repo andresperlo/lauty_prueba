@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Coca from '../Images/coke-coca-cola.gif'
 import Rock from '../Images/rock.gif'
 import Pizza from '../Images/spinning-pizza.gif'
-import '../css/Publicity.css'
+import 'css/Publicity.css'
 
 const Publicity = () => {
     return (

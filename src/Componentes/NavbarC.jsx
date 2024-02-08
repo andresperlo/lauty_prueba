@@ -3,7 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import FormControl from 'react-bootstrap/FormControl';
 import logoImage from '../Images/Logo.png';
-import '../css/NavbarC.css';
+import 'css/NavbarC.css';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import Form from 'react-bootstrap/Form';

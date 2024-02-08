@@ -4,7 +4,7 @@ import Logo from "../Images/Logo.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import QR from "../Images/QR-DATA.jpg";
-import '../css/Footer.css';
+import 'css/Footer.css';
 
 const FooterC = () => {
   return (
