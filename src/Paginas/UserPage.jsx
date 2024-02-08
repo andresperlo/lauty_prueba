@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import NavbarC from '../Componentes/NavbarC';
 import FooterC from '../Componentes/FooterC';
-import "../Css/UserPage.css";
+import "../css/UserPage.css";
 import { Col, Container, Row } from 'react-bootstrap';
 import axiosUrl from '../helps/axiosBase';
 import Button from 'react-bootstrap/Button';

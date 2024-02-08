@@ -3,7 +3,7 @@ import React from 'react';
 import { Carousel } from 'react-bootstrap';
 import CardC from './CardC';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../Css/slider.css'
+import '../css/slider.css'
 
 const SliderC = ({ productos }) => {
   return (

@@ -5,7 +5,7 @@ import NavbarC from '../Componentes/NavbarC';
 import { Col, Container, Row } from 'react-bootstrap';
 import Figure from 'react-bootstrap/Figure';
 import Accordion from 'react-bootstrap/Accordion';
-import "../Css/ProductPage.css"
+import "../css/ProductPage.css"
 import FooterC from '../Componentes/FooterC';
 import Button from 'react-bootstrap/Button';
 import Alert from 'react-bootstrap/Alert';

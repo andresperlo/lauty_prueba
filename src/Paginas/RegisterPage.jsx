@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import Swal from 'sweetalert2'
 import NavbarC from '../Componentes/NavbarC';
 import Soda from "/Images/SODA.JPG";
-import "../Css/RegisterPage.css"
+import "../css/RegisterPage.css"
 import { Col, Container, Row } from 'react-bootstrap';
 import FooterC from '../Componentes/FooterC';
 import { useNavigate } from 'react-router-dom';
